@@ -6,7 +6,7 @@ This project aims to develop an email classifier for a multinational IT company 
 
 ## Workflow
 
-The workflow for email classification involves machine translation, noise removal, and model building. The workflow is defined in the `workflow.yml` file.
+The workflow for email classification involves machine translation, noise removal, and model building.
 
 ### Environment Specification
 
